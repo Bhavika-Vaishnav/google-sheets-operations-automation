@@ -33,21 +33,27 @@ It provides a structured system for managing employee tasks, tracking completion
 The solution is organized into six worksheets:
 
 **1. Task Master**
+
 Stores task details, employee assignments, schedules, and due dates.
 
 **2. Employee Dashboard**
+
 Displays employee-wise task information and completion status.
 
 **3. Completion Log**
+
 Maintains a history of completed tasks.
 
 **4. Manager Dashboard**
+
 Tracks manager notifications and acknowledgement status.
 
 **5. Alert & Escalation Log**
+
 Records manager alerts and leadership escalation activities.
 
 **6. Settings**
+
 Stores configurable SLA values and timezone information.
 
 ## Workflow
@@ -86,6 +92,10 @@ The following scenarios were tested successfully:
 ### Test Report
 
 [View the Operations Automation Test Report](operations_automation_test_report_portfolio.pdf)
+
+### Live Demo
+
+[View the Google Sheets Project](https://docs.google.com/spreadsheets/d/1rnmNBkvzoG376Hx8hPqfBQDYiZaqwWetCbQuMYXVdy4/edit?usp=sharing)
 
 ## Repository Contents
 
